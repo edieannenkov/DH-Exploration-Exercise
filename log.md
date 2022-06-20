@@ -17,5 +17,9 @@ Name: Edie Annenkov
 #### Name of Tutorial
 
 **Things that challenged me:**
-
+<br /> 
+- had a hard time finding a diary that I enjoy, especially when the list does not provide any key information, after a long search I finally found one that interests me but the download files were janky
+- the download jpg urls were all different and not just the id number but the entire webpage. Had to use python to exerpt the urls using the htdml coding of it.
+- wget was being very difficult, I checked my previous logs and it helped.
 **Where I went for help:**
+- previous notes and discord.
