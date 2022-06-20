@@ -10,3 +10,6 @@ After editing the data to my best potential, ofcourse understanding that I am on
 After looking at the words and how much they were said in the diary, I realized 2 acronyms that were used: life and death. To understand better about Ebenezer perspective on the world I correlated the two words together to see if they were mostly used together or apart.
 ![Capture](https://user-images.githubusercontent.com/94088312/174511764-8ff5ed36-af71-4df0-ae81-b6885e4ee7a4.PNG)
 Looking at the results, I realized that whenever he discusses death a lot, he does not use life as much and vise versa. This could indicate a few things: either depicting by the mood he was in during that time, or the events that he was going through. To go deeper into this, I would read the group of text where those were used, indicate the date that they were written and find out whether anything happened during the time that he wrote those messages.
+
+References:
+“Transcription for ‘Ebenezer Storer Diary, 1749-1764.’” Transcription for "Ebenezer Storer Diary, 1749-1764" - Digital Collections | Congregational Library &amp; Archives, https://congregationallibrary.quartexcollections.com/Documents/Detail/transcription-for-ebenezer-storer-diary-1749-1764/82494?item=82504. 
