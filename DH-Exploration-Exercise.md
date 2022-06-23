@@ -12,6 +12,9 @@ After looking at the words and how much they were said in the diary, I realized 
 Looking at the results, I realized that whenever he discusses death a lot, he does not use life as much and vise versa. This could indicate a few things: either depicting by the mood he was in during that time, or the events that he was going through. To go deeper into this, I would read the group of text where those were used, indicate the date that they were written and find out whether anything happened during the time that he wrote those messages.
 <br /> <br />
 
+![death](https://user-images.githubusercontent.com/94088312/175399943-3b63092c-729d-489f-9579-f2e1dd9760ab.PNG)
+![Life](https://user-images.githubusercontent.com/94088312/175399960-4ca6735d-ca51-4602-abfd-8a5b581de1d3.PNG)
+
 
 References:
 “Transcription for ‘Ebenezer Storer Diary, 1749-1764.’” Transcription for "Ebenezer Storer Diary, 1749-1764" - Digital Collections | Congregational Library &amp; Archives, https://congregationallibrary.quartexcollections.com/Documents/Detail/transcription-for-ebenezer-storer-diary-1749-1764/82494?item=82504. 
