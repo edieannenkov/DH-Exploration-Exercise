@@ -14,7 +14,10 @@ Looking at the results, I realized that whenever he discusses death a lot, he do
 
 ![death](https://user-images.githubusercontent.com/94088312/175399943-3b63092c-729d-489f-9579-f2e1dd9760ab.PNG)
 ![Life](https://user-images.githubusercontent.com/94088312/175399960-4ca6735d-ca51-4602-abfd-8a5b581de1d3.PNG)
-
-
+<br /> <br />
+To contrinue my research and discovery on the diary, I brought the text file into excel, each row difines a sentence/ paragraph while each column is split up using the spaces of words. Through that, I have every word placed in a different cell allowing me to do much more with the data. With this new transformation of data, I decided to bring into my goood trusted tool, open refine. On open refine, the first thing I did was transform all cells into text, and rid myself of any null, or blank cells.It was difficult to read any data or add any clusters because everything was seperated by columns. While trying to find a solution, I continued using excel to find more data specifically on the words life and death (words strongely emphasized by Ebenezer). I gathered using the data that the words life was used twixe as much as death although, when reading into the context of the words, ebenezer refers to life leaving. 
+<br /> <br />
+While a lot of discovery was created, it is difficult to understand the data without actually reading and analyzing the text using a group of people. This is without a doubt the longest part of digital history. With the information I have, I definitely know my future steps if I were to continue on this journey looking at the diary. Firstly, I would look into the moods of different years, using words such as "life" or "death" to create an idea of how that year mostly went. Then, search through archieves to discover what kind of events occured in the area during that time. Then finally, come back to the diary and discover any corrolations between the events and the data to find new information about the history.
+<br /> <br />
 References:
 “Transcription for ‘Ebenezer Storer Diary, 1749-1764.’” Transcription for "Ebenezer Storer Diary, 1749-1764" - Digital Collections | Congregational Library &amp; Archives, https://congregationallibrary.quartexcollections.com/Documents/Detail/transcription-for-ebenezer-storer-diary-1749-1764/82494?item=82504. 
